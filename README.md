@@ -5,3 +5,4 @@
 - Разбираюсь в алгоритмах и структурах данных
 - Docker/docker compose
 - Тестирование с pytest и unittest
+- Библиотеки Djoser, simpleJWT, asyncio, requests
